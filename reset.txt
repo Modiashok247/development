@@ -1,1 +1,2 @@
  Hiall, here i am doing the git reset.
+changing somthing here to know the git push.
